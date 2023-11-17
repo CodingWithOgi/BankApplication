@@ -27,9 +27,9 @@ public class LoginFrame extends JFrame{
         usernameTxF.setBounds(140,20,100,20);
         passwordLbl.setBounds(40,60,100,20);
         passwordFieldPwdF.setBounds(140,60,100,20);
-        loginButton.setBounds(140,120,100,20);
-        fpBtn.setBounds(40,160,100,20);
-        signUpButton.setBounds(180,160,180,20);
+        loginButton.setBounds(140,120,100,30);
+        fpBtn.setBounds(40,160,160,30);
+        signUpButton.setBounds(220,160,80,30);
 
         this.add(usernameLbl);
         this.add(usernameTxF);
